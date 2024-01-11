@@ -1,1 +1,1 @@
-# Artificial-Intelligence-Subject
+# Artificial Intelligence Subject
