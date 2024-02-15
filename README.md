@@ -13,3 +13,4 @@
 * This Master’s Degree Program coursework in Artificial Intelligence and Internet of Things (AIoT) </n>
 
 >***Require `Python, Python notebook, Matplotlib, NumPy`***
+
