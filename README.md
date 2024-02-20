@@ -1,5 +1,5 @@
 <br>
-<img align="right" src="https://github.com/karinzaa/Software-Design-Techniques-for-AI-and-IoT/assets/25452435/1037db64-586b-496e-af3c-d91817c6c1bf" width="300"></img>
+<img align="right" src="https://github.com/karinzaa/Software-Design-Techniques-for-AI-and-IoT/assets/25452435/1037db64-586b-496e-af3c-d91817c6c1bf" width="350"></img>
 <p align="center">
 </br>	
 
